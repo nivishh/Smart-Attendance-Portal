@@ -1,0 +1,28 @@
+[
+  {
+    "id": "16c485bd-08fe-4ba9-8b14-4e422162dbe1",
+    "studentRollNo": "234",
+    "studentName": "saumya",
+    "className": "B.Tech 3rd Year",
+    "section": "B",
+    "branch": "IT",
+    "subject": "Artificial Intelligence",
+    "date": "2026-10-21",
+    "status": "Present",
+    "createdAt": "2026-10-21T10:19:00.002Z",
+    "updatedAt": "2026-10-21T10:19:25.507Z"
+  },
+  {
+    "id": "bfc04bf6-11ea-46fb-8b39-283d562103d6",
+    "studentRollNo": "123654789",
+    "studentName": "sidharth kesar",
+    "className": "B.Tech 1st Year",
+    "section": "D",
+    "branch": "AIDS",
+    "subject": "Operating Systems",
+    "date": "2026-10-21",
+    "status": "Present",
+    "createdAt": "2026-10-21T10:20:15.473Z",
+    "updatedAt": "2026-10-21T10:20:33.541Z"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "64eebde2-69e4-49a1-b49a-a6f61650838f",
+    "fullName": "Navanshi Vishnoi",
+    "rollNo": "2400320100735",
+    "className": "B.Tech 3rd Year",
+    "section": "C",
+    "branch": "CSE",
+    "course": "B.Tech",
+    "email": "vishnoinavanshi2107@gmail.com",
+    "phone": "9548150872",
+    "passwordHash": "$2a$10$K7XZqWY6NR1el4TJbWR9uukjKZxlIMgFUAtmauJdmDkWNTbf9DR.i",
+    "createdAt": "2026-10-21T09:41:14.023Z"
+  },
+  {
+    "id": "b58612af-39df-4a4f-97d2-350334312a56",
+    "fullName": "sidharth kesar",
+    "rollNo": "123654789",
+    "className": "B.Tech 1st Year",
+    "section": "D",
+    "branch": "AIDS",
+    "course": "B.Com",
+    "email": "heisanidiot@gmail.com",
+    "phone": "9103598155",
+    "passwordHash": "$2a$10$R35BNcwRzZWI5Uy473cJDeChfhhveA87qKivws.mbJX2w7qFwFJCG",
+    "createdAt": "2026-10-21T09:42:42.479Z"
+  },
+  {
+    "id": "2eb57fbb-e49a-4099-ae9a-4742890708ff",
+    "fullName": "saumya",
+    "rollNo": "234",
+    "className": "B.Tech 3rd Year",
+    "section": "B",
+    "branch": "IT",
+    "course": "B.Tech",
+    "email": "saumyatiwari@gmail.com",
+    "phone": "9548150889",
+    "passwordHash": "$2a$10$x7e3hW/S./DFF699IyQSBOc0uxgScgJI7n8b2Aerugdwq67WWtTAm",
+    "createdAt": "2026-10-21T10:18:15.611Z"
+  },
+  {
+    "id": "0ebcabb1-94dd-4cbd-9dee-3e9a35d676c2",
+    "fullName": "neha",
+    "rollNo": "100",
+    "className": "B.Tech 3rd Year",
+    "section": "B",
+    "branch": "CSE",
+    "course": "B.Tech",
+    "email": "nehapal@gmail.com",
+    "phone": "9548150889",
+    "passwordHash": "$2a$10$IwVdaoRgTGrrpwi9g8lNQeksrgsVDHPru0os8jdx2eI1tVNf5ijmi",
+    "createdAt": "2026-10-21T10:33:56.231Z",
+    "passwordChangedAt": "2026-10-21T12:43:23.143Z"
+  }
+]
